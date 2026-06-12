@@ -1,0 +1,193 @@
+{
+  "name": {
+    "first": "HARIHARAN",
+    "last": "MANI",
+    "full": "HARIHARAN M"
+  },
+  "email": "harishharish62706@gmail.com",
+  "tagline": "Building cinematic digital experiences with modern web technologies & AI.",
+  "description": "Building cinematic digital experiences, scalable systems, and AI-powered products with modern web technologies.",
+  "roles": {
+    "short": "full-stack developer · ai builder · Tester · problem solver",
+   "detailed": "Full Stack Developer with 2+ years of experience building scalable web applications using the MERN stack, AWS cloud services, and modern DevOps practices. Specialized in backend development, RESTful APIs, cloud deployments, CI/CD automation, and software testing, with a strong focus on performance, reliability, and delivering production-ready solutions."
+
+  },
+  "location": {
+    "based": "India",
+    "availability": "Worldwide"
+  },
+  "available": true,
+  "bio": "I'm a Full Stack & AI Developer with 2+ years of experience developing modern web applications and cloud solutions. I work across the entire development lifecycle—from frontend interfaces and backend architectures to cloud deployment, testing, and automation. Leveraging AI tools such as ChatGPT, GitHub Copilot, and Claude, I focus on building innovative, scalable, and efficient solutions that solve real-world problems.",
+  "stats": [
+    { "value": "2+",  "label": "Years Experience" },
+    { "value": "15+", "label": "Projects Completed" },
+    { "value": "1",   "label": "Companies" }
+  ],
+  "skills": [
+    "Full Stack Developer",
+    "Backend Engineer",
+    "AI-Assisted Developer",
+    "Cloud Practitioner",
+    "MERN Stack",
+    "AWS Cloud",
+    "REST API Development",
+    "Docker",
+    "CI/CD Automation",
+    "Software Testing",
+    "System Design",
+    "Problem Solving"
+  ],
+
+   "experience": [
+    {
+      "id": 1,
+      "role": "Full Stack Developer",
+      "company": "Quibotech",
+      "companyShort": "QUIBOTECH",
+      "type": "Full-time",
+      "location": "India",
+      "period": "Jun 2024",
+      "periodEnd": "Present",
+      "bullets": [
+        "Developed and maintained scalable full-stack web applications using React.js, Node.js, Express.js, and MongoDB for business-critical solutions.",
+        "Designed and integrated RESTful APIs, authentication systems, cloud storage solutions, and third-party services including AWS S3, Razorpay, MSG91, and email platforms.",
+        "Implemented CI/CD pipelines using GitHub Actions, containerized applications with Docker, and managed deployments on Render, Hostinger, Vercel, and MongoDB Atlas.",
+        "Performed unit testing with Jest, end-to-end testing with Playwright, API testing using Postman, and load testing using JMeter to ensure application quality and reliability.",
+        "Collaborated with cross-functional teams using GitHub and Jira while leveraging AI tools such as ChatGPT, GitHub Copilot, and Claude to accelerate development and improve productivity."
+      ],
+      "desc": "Full Stack Developer specializing in MERN stack development, cloud-based applications, backend architecture, API development, testing automation, and deployment workflows. Experienced in building scalable production-ready applications with modern cloud and DevOps practices.",
+      "tech": [
+        "React.js",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "AWS",
+        "Docker",
+        "GitHub Actions",
+        "Jest",
+        "Playwright",
+        "JMeter",
+        "Postman",
+        "Git",
+        "Jira"
+      ]
+    }
+    
+  ],
+  "projects": [
+   {
+"id": 1,
+"title": "ArchiReach",
+"subtitle": "Architecture & Project Management Platform",
+"type": "SaaS",
+"link": "https://archireach.com",
+"image": "/assets/archireach.jpg",
+"tech": [
+"React.js",
+"Node.js",
+"Express.js",
+"MongoDB",
+"JWT",
+"Google OAuth",
+"Socket.io",
+"AWS S3",
+"Razorpay",
+"Resend"
+],
+"desc": "Developed a full-stack Architecture & Project Management Platform connecting architects, clients, firms, and students. Implemented JWT and Google OAuth authentication, real-time messaging with Socket.io, AWS S3 file storage, Razorpay payment integration, Resend email notifications, role-based access control, project workflows, subscriptions, referrals, and a comprehensive admin dashboard."
+}
+,
+   {
+  "id": 2,
+  "title": "RMJ Jewels",
+  "subtitle": "Jewelry E-Commerce & CRM Management Platform",
+  "type": "E-Commerce",
+  "link": "https://rmjjewels.com/",
+  "image": "/assets/rmj.jpg",
+  "tech": [
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "JWT",
+    "Razorpay",
+    "AWS S3",
+    "Cloudinary",
+    "Framer Motion",
+    "React Router"
+  ],
+  "desc": "Developed a full-stack jewelry e-commerce platform with product catalog management, shopping cart, secure authentication, order tracking, and Razorpay payment integration. Built a comprehensive CRM-style admin dashboard to manage products, inventory, orders, customers, inquiries, pricing, analytics, and business operations. Integrated AWS S3 and Cloudinary for scalable cloud-based media storage and optimized platform performance for seamless user experience."
+},
+{
+  "id": 3,
+  "title": "Siddha Medical Science",
+  "subtitle": "Traditional Medicine Information Platform",
+  "type": "Website",
+  "link": "https://siddhamedicalscience.com/",
+  "image": "/assets/siddha.jpg",
+  "tech": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "Responsive Design",
+    "Web Security",
+    "SEO"
+  ],
+  "desc": "Developed a responsive Siddha medicine information platform using HTML, CSS, and JavaScript to present structured traditional medical content. Implemented mobile-friendly UI/UX, optimized website performance, and integrated client-side security measures to discourage screenshots, screen recording, content copying, and unauthorized content access on supported devices."
+},
+{
+"id": 4,
+"title": "LocalAce",
+"subtitle": "Home Cleaning Service Platform",
+"type": "Website",
+"link": "https://localace.in/",
+"image": "/assets/localace.jpg",
+"tech": [
+"HTML5",
+"CSS3",
+"JavaScript",
+"Responsive Design",
+"SEO",
+"UI/UX Design"
+],
+"desc": "Developed a responsive home cleaning service platform using HTML, CSS, and JavaScript, enabling customers to explore services, pricing, and booking options through an intuitive user interface. Implemented SEO best practices, mobile-friendly design, performance optimization, and user-focused navigation to improve visibility, engagement, and customer experience."
+}
+
+  ],
+ "expertise": [
+  {
+    "id": 1,
+    "title": "Full Stack Development",
+    "platform": "Professional Skill",
+    "year": "2+ Years",
+    "desc": "Experienced in building scalable web applications using React.js, Node.js, Express.js, MongoDB, REST APIs, authentication systems, and modern frontend architectures."
+  },
+  {
+    "id": 2,
+    "title": "Cloud & DevOps",
+    "platform": "Professional Skill",
+    "year": "AWS Certified",
+    "desc": "Hands-on experience with AWS services including S3, IAM, Route 53, and CloudFront. Skilled in Docker containerization, GitHub Actions CI/CD automation, and cloud deployments using Render, Hostinger, Vercel, Netlify, and MongoDB Atlas."
+  },
+  {
+    "id": 3,
+    "title": "Software Testing & Quality Assurance",
+    "platform": "Professional Skill",
+    "year": "Production Experience",
+    "desc": "Experienced in Jest for unit testing, Playwright for end-to-end testing, Postman for API testing, and JMeter for load and performance testing to ensure application reliability and quality."
+  },
+  {
+    "id": 4,
+    "title": "Third-Party Integrations & Cloud Services",
+    "platform": "Professional Skill",
+    "year": "Production Experience",
+    "desc": "Integrated services including Razorpay payment gateway, MSG91 OTP verification, Resend email platform, AWS S3 storage, Google OAuth authentication, and cloud-based business solutions."
+  }
+],
+  "socials": [
+    { "label": "GitHub",    "href": "https://github.com/pinkymine" },
+    { "label": "LinkedIn",  "href": "https://www.linkedin.com/in/hariharan-m-272053297" },
+    { "label": "Email",     "href": "mailto:harishharish62706@gmail.com" }
+  ]
+}
