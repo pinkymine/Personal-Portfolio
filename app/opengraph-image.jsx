@@ -13,7 +13,7 @@ export const size = {
 export const contentType = 'image/png'
 
 const ACCENT = '#f7931e'
-const photoUrl = `${SITE_URL}/assets/about.webp`
+const photoUrl = `${SITE_URL}/assets/about1.png`
 
 export default function Image() {
   return new ImageResponse(
@@ -80,7 +80,7 @@ export default function Image() {
                 textTransform: 'uppercase',
               }}
             >
-              SOFTWARE DEVELOPER
+              FULL STACK DEVELOPER
             </span>
           </div>
 
@@ -100,7 +100,7 @@ export default function Image() {
                 letterSpacing: -4,
               }}
             >
-              VAIBHAV
+              HARIHARAN
             </span>
 
             <span
@@ -111,7 +111,7 @@ export default function Image() {
                 letterSpacing: -4,
               }}
             >
-              KHUSHALANI
+              M
             </span>
           </div>
 
@@ -250,7 +250,7 @@ export default function Image() {
             letterSpacing: 2,
           }}
         >
-          vaibhav-create.vercel.app
+          hariharan-fullstack-portfolio.netlify.app
         </div>
       </div>
     ),
